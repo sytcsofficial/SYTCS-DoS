@@ -11,7 +11,7 @@ This software is intended for educational and experimental purposes only. It sho
 
 ## Installation
 
-clone the repository to your desktop.
+clone the repo.
 
 ```bash
 git clone github.com/sytcsofficial/SYTCS-DoS
