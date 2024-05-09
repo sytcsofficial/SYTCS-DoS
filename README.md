@@ -1,4 +1,4 @@
-# SYTCS-DoS
+## SYTCS-DoS
 A Denial of Sevice tool developed by the SYTCS team
 
 ## DISCLAIMER
@@ -33,4 +33,4 @@ python3 main.py
 [Apache-2.0 License](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Contact Us:
-t.me/SYTCS_official
+Telegram(t.me/SYTCS_official)
