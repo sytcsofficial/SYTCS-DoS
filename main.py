@@ -4,16 +4,16 @@ import random
 import sys
 
 os.system("clear")
-os.system("python3 usr/share/sytcsdos/src/logo.py")
+os.system("python3 src/logo.py")
 
-print("1. DDoS an Ip Address")
-print("2. DDoS a Url ")
+print("1. DoS an Ip Address")
+print("2. DoS a Url ")
 print("3. Exit")
 op=int(input("Options: "))
 if(op==1):
- os.system("python3 usr/share/sytcsdos/src/dos.py")
+ os.system("python3 src/dos.py")
 elif(op==2):
- os.system("python3 usr/share/sytcsdos/src/Url.py")
+ os.system("python3 src/Url.py")
 elif(op==3):
  sys.exit()
 else:
