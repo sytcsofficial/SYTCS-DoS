@@ -33,4 +33,4 @@ python3 main.py
 [Apache-2.0 License](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## Contact Us:
-Telegram(t.me/SYTCS_official)
+[Telegram](t.me/SYTCS_official)
