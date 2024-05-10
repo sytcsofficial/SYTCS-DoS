@@ -24,7 +24,7 @@ cd SYTCS-DoS
 Install the requirements for the tool:
 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 Install the tool:
