@@ -33,7 +33,8 @@ Install the tool:
 sudo python3 install.py
 ```
 
-Run the tool:
+##Usage
+you can run the tool using the following command:
 
 ```bash
 sytcsdos
