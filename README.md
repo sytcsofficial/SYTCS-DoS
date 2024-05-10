@@ -16,16 +16,27 @@ clone the repo.
 ```bash
 git clone github.com/sytcsofficial/SYTCS-DoS
 ```
-Install the requirements.
+change yout directory on terminal to SYTCS-DoS
+```bash
+cd SYTCS-DoS
+```
+
+Install the requirements for the tool:
 
 ```bash
 pip install -r requirements
 ```
 
-Run the tool
+Install the tool:
 
 ```bash
-python3 main.py
+sudo python3 install.py
+```
+
+Run the tool:
+
+```bash
+sytcsdos
 ```
 
 ## License
