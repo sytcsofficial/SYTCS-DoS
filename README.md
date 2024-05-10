@@ -33,7 +33,7 @@ Install the tool:
 sudo python3 install.py
 ```
 
-##Usage
+## Usage
 you can run the tool using the following command:
 
 ```bash
