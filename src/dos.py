@@ -24,10 +24,10 @@ def cls():
 cls()
 
 try:
-    os.system("python3 src/logo.py")
+    os.system("python3 /usr/share/sytcsdos/src/logo.py")
     ip = input("IP  : ")
-    port = int(input("Port : "))  # Convert port to int
-    os.system("python3 src/Starter.py")
+    port = int(input("Port : "))  
+    os.system("python3 /usr/share/sytcsdos/src/Starter.py")
 except SyntaxError:
     print(R + '[-] ' + C + 'Error code: 422 Unprocessable Entity')
 

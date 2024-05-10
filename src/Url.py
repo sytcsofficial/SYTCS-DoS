@@ -17,7 +17,7 @@ def cls():
         os.system("clear")
 
 cls()
-os.system("python3 src/logo.py")
+os.system("python3 /usr/share/sytcsdos/src/logo.py")
 
 target = input(f"{GREEN}Enter Target URL: ")
 target = target.replace("http://", "")
